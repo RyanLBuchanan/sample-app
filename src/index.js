@@ -15,3 +15,9 @@ ReactDOM.render(
 // unregister() to register() below. Note this comes with some pitfalls.
 // Learn more about service workers: https://bit.ly/CRA-PWA
 serviceWorker.unregister();
+
+// Render tutorial from Bluelime
+// ReactDOM.render(
+//   <h1>I love Jessica Alba!</h1>,
+//   document.getElementById('root')
+// );
